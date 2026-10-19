@@ -16,10 +16,10 @@ Hematopoietic Cell Transplantation (HCT) is a vital treatment for high-risk hema
 The framework follows a structured pipeline as illustrated below:
 
 ### Workflow Pipeline
-![Workflow Pipeline](image_01e788.jpg)
+![Workflow Pipeline](MeDO.png)
 
 ### Model Architecture (DeepHitSingle)
-![Model Architecture](image_01e78b.jpg)
+![Model Architecture](Arc.png)
 
 ---
 
